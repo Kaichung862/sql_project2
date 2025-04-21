@@ -33,7 +33,11 @@ The image below delineates the raw form of our data used for our Questions.
 
 # Data Dictionary 
 
-[Data_Definition.pdf](https://github.com/user-attachments/files/19840273/Data_Definition.pdf)
+![Image](https://github.com/user-attachments/assets/3e6783e3-9eba-4603-8cf4-740acad5ac3e)
+
+![Image](https://github.com/user-attachments/assets/a0b83e29-152a-428b-9148-2c69b2449417)
+
+![Image](https://github.com/user-attachments/assets/2ef6c73e-b8be-417e-ac2e-70b7f64e878a)
 
 
 
