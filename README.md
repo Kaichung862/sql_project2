@@ -39,6 +39,13 @@ The image below delineates the raw form of our data used for our Questions.
 
 ![Image](https://github.com/user-attachments/assets/2ef6c73e-b8be-417e-ac2e-70b7f64e878a)
 
+# Questions
+
+1) Which states should have the highest insurance cost based on Tornado Events?
+
+2) For which months should Emergency services invest the most payroll?
+
+
 
 
 
