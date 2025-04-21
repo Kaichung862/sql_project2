@@ -24,6 +24,11 @@ The scope of this project is to see how major organizations involved in storm ev
 1) Which states should have the highest insurance cost based on Tornado Events?
 2) For which months should Emergency services invest the most payroll?
 
-# Data Model 
+# Data Table
+
+
+
+
+
 
 
