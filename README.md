@@ -1,4 +1,4 @@
 # Project Overview 
 
-* this is cuurently being worked on.
+* this is cuurently being worked on. - Kai
 
