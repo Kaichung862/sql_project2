@@ -26,6 +26,7 @@ The scope of this project is to see how major organizations involved in storm ev
 
 # Data Table
 
+<img width="1282" alt="Image" src="https://github.com/user-attachments/assets/d7ca1aad-bfc1-4b38-b116-9eb72c3cdbd4" />
 
 
 
