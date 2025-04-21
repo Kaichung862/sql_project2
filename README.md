@@ -26,7 +26,14 @@ The scope of this project is to see how major organizations involved in storm ev
 
 # Data Table
 
+The image below delineates the raw form of our data used for our Questions.
+
 <img width="1282" alt="Image" src="https://github.com/user-attachments/assets/d7ca1aad-bfc1-4b38-b116-9eb72c3cdbd4" />
+
+
+# Data Dictionary 
+
+[Data_Definition.pdf](https://github.com/user-attachments/files/19840273/Data_Definition.pdf)
 
 
 
