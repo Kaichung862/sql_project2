@@ -30,6 +30,8 @@ The image below delineates the raw form of our data used for our Questions.
 
 <img width="1282" alt="Image" src="https://github.com/user-attachments/assets/d7ca1aad-bfc1-4b38-b116-9eb72c3cdbd4" />
 
+* note that our data does not have complete data for states: Washington, Oregon, Nevada, Utah, Vermont, Massachusetts, New Jersey *
+
 
 # Data Dictionary 
 
