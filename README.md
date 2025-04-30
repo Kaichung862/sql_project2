@@ -47,11 +47,26 @@ The image below delineates the raw form of our data used for our Questions.
 
 <img width="378" alt="Image" src="https://github.com/user-attachments/assets/bef27cd4-5d82-431c-948d-6713c6247599" />
 
+
+This question uses: 
+
+- Rows: Longitude
+- Columns: Latitude 
+- Filters: Event Type 
+- Marks: MAX(Tornado F Scale), SUM(Direct Deaths), State
+  
+
+2) When Should the Government Boost Storm Response Investment?
+
+
 ![Image](https://github.com/user-attachments/assets/132ef406-446b-4661-8657-aab5932f3f6e)
 
-3) For which months should Emergency services invest the most payroll?
 
+This question uses:
 
+- Rows: COUNT(Event_ID)
+- Columns: Month_name
+- Marks: COUNT(Event_ID)
 
 
 
