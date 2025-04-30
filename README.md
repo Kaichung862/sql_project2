@@ -1,7 +1,7 @@
-## Strom patterns and Organizational Responses
+# Strom patterns and Organizational Responses
 
 
-# Group Members
+## Group Members
 - Chung, Kai
 
 - Goodwin, North 
