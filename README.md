@@ -26,7 +26,9 @@ The scope of this project is to see how major organizations involved in storm ev
 
 # Data Table
 
-The image below delineates the raw form of our data used for our Questions.
+- The primary dataset used is based on 1959 storm events, which includes storm type, date, location, property damage, injuries, and more.
+- The data can be accessed at https://catalog.data.gov/dataset/ncdc-storm-events-database2
+  
 
 <img width="1282" alt="Image" src="https://github.com/user-attachments/assets/d7ca1aad-bfc1-4b38-b116-9eb72c3cdbd4" />
 
