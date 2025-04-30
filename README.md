@@ -71,6 +71,19 @@ This question uses:
 - Marks: COUNT(Event_ID)
 
 
+# Findings and Summary
+
+- States like Texas and Oklahoma incurred the highest damage from tornadoes and should be prioritized for increased insurance premiums.
+- Emergency services should prepare for increased activity in spring and early summer months, when storm-related injuries peak.
+
+
+# Tools Used 
+
+- Tableau (for visualization)
+- Terminal on MacOS (for repository organization)
+- Git & GitHub (for version control)
+- Microsoft PowerPoint (for final presentation
+
 
 
 
