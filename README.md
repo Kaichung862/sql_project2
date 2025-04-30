@@ -45,7 +45,9 @@ The image below delineates the raw form of our data used for our Questions.
 
 1) Which states should have the highest insurance cost based on Tornado Events?
 
+<img width="378" alt="Image" src="https://github.com/user-attachments/assets/bef27cd4-5d82-431c-948d-6713c6247599" />
 
+![Image](https://github.com/user-attachments/assets/132ef406-446b-4661-8657-aab5932f3f6e)
 
 3) For which months should Emergency services invest the most payroll?
 
