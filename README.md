@@ -80,9 +80,33 @@ This question uses:
 # Tools Used 
 
 - Tableau (for visualization)
-- Terminal on MacOS (for repository organization)
+- Terminal on MacOS (for repository changes)
 - Git & GitHub (for version control)
 - Microsoft PowerPoint (for final presentation
+
+# Cloning this repository 
+
+1) Open your terminal
+
+  
+2) Navigate to the directory where you want to clone the repo
+
+   "cd path/to/your/directory"
+   
+
+3) Clone the repository using Git
+
+   "git clone https://github.com/Kaichung862/sql_project2.git"
+
+
+4) Navigate into the project folder
+
+   "cd sql_project2"
+
+
+5) Open the project and enjoy!
+
+
 
 
 
