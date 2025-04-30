@@ -1,4 +1,4 @@
-# Strom patterns and Organizational Responses
+## Strom patterns and Organizational Responses
 
 
 # Group Members
