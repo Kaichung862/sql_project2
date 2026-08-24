@@ -1,4 +1,4 @@
-# Strom patterns and Organizational Responses ⛈️
+# Storm Patterns and Organizational Responses ⛈️
 
 
 ## Group Members 👨‍💻
